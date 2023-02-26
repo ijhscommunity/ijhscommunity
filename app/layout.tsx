@@ -22,14 +22,10 @@ export const metadata = {
         },
         url: "https://ijhscommunity.vercel.app/",
         siteName: "International Junior Honor Society",
-        images: [
-            {
-                url: "https://ijhscommunity.vercel.app/og-image.png",
-                width: 1200,
-                height: 630,
-                alt: "International Junior Honor Society",
-            },
-        ],
+        images: {
+            url: "https://ijhscommunity.vercel.app/og-image.png",
+            alt: "International Junior Honor Society",
+        },
         locale: "en-US",
         type: "website",
     },
@@ -44,14 +40,10 @@ export const metadata = {
         creator: "@ijhscommunity",
         siteId: "1614121836564066305",
         creatorId: "1614121836564066305",
-        images: [
-            {
-                url: "https://ijhscommunity.vercel.app/og-image.png",
-                width: 1200,
-                height: 630,
-                alt: "International Junior Honor Society",
-            },
-        ],
+        images: {
+            url: "https://ijhscommunity.vercel.app/og-image.png",
+            alt: "International Junior Honor Society",
+        },
     },
     icons: {
         apple: "/apple-touch-icon.png",
