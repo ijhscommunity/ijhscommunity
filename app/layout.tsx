@@ -59,11 +59,11 @@ export const metadata = {
         other: [
             {
                 rel: "android-chrome-192x192",
-                href: "/android-chrome-192x192.png",
+                url: "/android-chrome-192x192.png",
             },
             {
                 rel: "android-chrome-512x512",
-                href: "/android-chrome-512x512.png",
+                url: "/android-chrome-512x512.png",
             },
         ],
     },
